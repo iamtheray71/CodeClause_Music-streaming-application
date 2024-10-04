@@ -1,4 +1,4 @@
-# CodeClause_Music-streaming-application
+#Music-streaming-application
 
 
 
